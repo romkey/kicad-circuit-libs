@@ -21,3 +21,6 @@ Note that on macOS, the plugin may throw an error saying it can't find the modul
 
 Shipping costs can equal the cost of manufacturing just a few PCBs. Batching up projects so that they ship together can help with this. You can also add projects to an existing order, which will extend its processing time until they're all completed.
 
+## Component Placement
+
+It's important to carefully review component placement when uploading a project to JLCPCB. Parts may be rotated incorrectly or may not align properly with their footprints. Not clear whether this is due to the export plugin or just a general issue with their parts database. I've seen polarized capacitors and diodes be 180 degrees off.

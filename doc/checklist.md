@@ -29,4 +29,4 @@ General: try to include all the information users might want *on the board itsel
 - when approporiate (especially for LEDs), include the power requirements (expected voltage and maximum current) in the board's documentation. If there are LEDs include the type and the count.
 - if there's room, include images for open source hardware, KiCAD, any organizations like CTRLH or CETI that may be appropriate
 - the QR code and any images should all be marked as "not on schematic" so that they won't be lost if the PCB is updated from the schematic
-
+- apply for [OSHWA certification](https://application.oshwa.org/apply) and label the board with it 

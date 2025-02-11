@@ -79,7 +79,7 @@ Very simple circuit with labelled connectors for Adafruit's "STEMMA QT" and Spar
 ## Small Switches
 
 An assortment of small SPST SMD switches of several sizes that were in
-stock at JLCPCB when I created this.
+stock at JLCPCB when I created this. These are suitable for use as BOOT and RESET buttons.
 
 ## Notes
 
